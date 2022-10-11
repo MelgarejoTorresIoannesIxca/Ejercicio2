@@ -14,7 +14,7 @@
 - suma =los dias de los 24 horas (si es el caso) sumandole las variables num1 y num2
 3. Salida
 -resumen de los datos solicitados con que dia y su transcurso de tiempo 
------------------------------------------------------------------------------|
+-----------------------------------------------------------------------------
 |        dia                                           horas                 |                     
 |        lunes                                          12                   | 
 |        miercoles                                      12                   |
@@ -26,4 +26,7 @@
 - diseño de la solucion
 ----------------------------------------------------------------------------------------------
 - diagrama de clases 
-![]()
+![](https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/horario.png)
+---------------------------------------------------------------------------------------------
+#etapa 4= desarollo de la solucion}
+----------------------------------------------------------------------------------------------
