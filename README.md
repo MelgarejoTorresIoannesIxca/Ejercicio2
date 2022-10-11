@@ -15,9 +15,9 @@
 3. Salida
 -resumen de los datos solicitados con que dia y su transcurso de tiempo 
 -----------------------------------------------------------------------------
-|        dia                                           horas                 |                     
-|        lunes                                          12                   | 
-|        miercoles                                      12                   |
+|        -dia                                           -horas               |                     
+|        -lunes                                          -12                 | 
+|        -miercoles                                      -12                 |
 |                                                                            |
 | tiempo transcurrido=48 horas                                               |
 ------------------------------------------------------------------------------
