@@ -20,10 +20,10 @@
 |                                                    |
 |                                                    |
 |-                                                   |
-|-dia                                       horas    |
-|-lunes                                       12     |
-|- miercoles                                  12     |
-|-tiempo de horas=24                                 |
+|-dia                                      -horas    |
+|-lunes                                      -12     |
+|- miercoles                                 -12     |
+|-tiempo de horas durante el dia lunes y miercoles=24                                 |
 
 #etapa 3
 ----------------------------------------------------------------------------------------------
