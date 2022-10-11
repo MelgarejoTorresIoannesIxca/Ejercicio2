@@ -14,6 +14,8 @@
 - suma =los dias de los 24 horas (si es el caso) sumandole las variables num1 y num2
 3. Salida
 -resumen de los datos solicitados con que dia y su transcurso de tiempo 
+
+
 -----------------------------------------------------------------------------
 |-dia                                           -horas                       |                     
 |-lunes                                          -12                         | 
