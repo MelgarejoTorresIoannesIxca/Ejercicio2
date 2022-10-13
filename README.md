@@ -15,9 +15,9 @@
 3. Salida
 -resumen de los datos solicitados con que dia y su transcurso de tiempo 
 
-
------------------------------------------------------  
-|   dia de semana ordenanda por numeros              |
+~~~
++----------------------------------------------------+  
+|-dia de semana ordenanda por numeros                |
 |-1.lunes                                            |
 |-2.martes                                           |
 |-3.miercoles                                        |           
@@ -28,8 +28,9 @@
 |-dia                                      -horas    |
 |-lunes                                      -12     |
 |- miercoles                                 -12     |
-|-el tiempo que ha transcurrido de 1 a 2 son 24      |                           
-
+|-el tiempo que ha transcurrido de 1 a 2 son 24      |  
++----------------------------------------------------+
+~~~
 #etapa 3
 ----------------------------------------------------------------------------------------------
 - diseño de la solucion
