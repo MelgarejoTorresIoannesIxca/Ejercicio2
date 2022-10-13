@@ -37,4 +37,4 @@
 ---------------------------------------------------------------------------------------------
 #etapa 4= desarollo de la solucion}
 ----------------------------------------------------------------------------------------------
-https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/horario.png
+https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/Horario.zip
