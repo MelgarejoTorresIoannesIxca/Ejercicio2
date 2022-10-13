@@ -1,9 +1,9 @@
-# T3A1_ ejercicio 02
+## 3 T3A1_ ejercicio 02
 ------------------------------------------------------------------------------------------------
 #etapa 1=
 - Realiza una programa que calcule las horas transcurridas entre dos horas de dos días de la semana. No se tendrán en cuenta los minutos ni los segundos. El día de la semana se puede pedir como un número (del 1 al 7) o como una cadena (de “lunes” a “domingo”). Se debe comprobar que el usuario introduce los datos correctamente y que el segundo día es posterior al primero.
 ------------------------------------------------------------------------------------------------
-#etapa 2
+##etapa 2
 -------------------------------------------------------------------------------------------------
 1.entrada
 - primer dia, segundo dia ,tiempo de horas en el primer dia , tiempo de horas en el segundo dia
@@ -28,13 +28,13 @@
 |-el tiempo que ha transcurrido de 1 a 2 son 24      |  
 +----------------------------------------------------+
 ~~~
-#etapa 3
+##etapa 3
 ----------------------------------------------------------------------------------------------
 - diseño de la solucion
 ----------------------------------------------------------------------------------------------
 - diagrama de clases 
 ![](https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/horario.png)
 ---------------------------------------------------------------------------------------------
-#etapa 4= desarollo de la solucion}
+##etapa 4= desarollo de la solucion}
 ----------------------------------------------------------------------------------------------
 https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/Horario.zip
