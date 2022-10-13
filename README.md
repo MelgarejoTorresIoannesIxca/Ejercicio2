@@ -35,6 +35,6 @@
 - diagrama de clases 
 ![](https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/horario.png)
 ---------------------------------------------------------------------------------------------
-## etapa 4= desarollo de la solucion}
+## etapa 4= desarollo de la solucion
 ----------------------------------------------------------------------------------------------
 https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/Horario.zip
