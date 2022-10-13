@@ -17,13 +17,18 @@
 
 
 -----------------------------------------------------  
-|                                                    |
-|                                                    |
-|-                                                   |
+|   dia de semana ordenanda por numeros              |
+|-1.lunes                                            |
+|-2.martes                                           |
+|-3.miercoles                                        |           
+|-4.jueves                                           |
+|-5.viernes                                          |
+|-6.sabado                                           |
+|7.domingo                                           |
 |-dia                                      -horas    |
 |-lunes                                      -12     |
 |- miercoles                                 -12     |
-|-tiempo de horas durante el dia lunes y miercoles=24                                 |
+|-el tiempo que ha transcurrido de 1 a 2 son 24      |                           
 
 #etapa 3
 ----------------------------------------------------------------------------------------------
