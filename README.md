@@ -24,10 +24,7 @@
 |-4.jueves                                           |
 |-5.viernes                                          |
 |-6.sabado                                           |
-|7.domingo                                           |
-|-dia                                      -horas    |
-|-lunes                                      -12     |
-|- miercoles                                 -12     |
+|7.domingo                                           |   
 |-el tiempo que ha transcurrido de 1 a 2 son 24      |  
 +----------------------------------------------------+
 ~~~
@@ -40,3 +37,4 @@
 ---------------------------------------------------------------------------------------------
 #etapa 4= desarollo de la solucion}
 ----------------------------------------------------------------------------------------------
+https://github.com/MelgarejoTorresIoannesIxca/Ejercicio2/blob/main/horario.png
